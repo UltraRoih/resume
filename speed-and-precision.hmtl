@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Andrei Yushkevich | Speed and Precision </title>
+    <meta name="robots" content="noindex, follow" />
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
+
+    <!-- CSS Style -->
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/plugins/feature.css">
+    <link rel="stylesheet" href="assets/css/vendor/slick.css">
+    <link rel="stylesheet" href="assets/css/vendor/slick-theme.css">
+    <link rel="stylesheet" href="assets/css/vendor/lightbox.css">
+    <link rel="stylesheet" href="assets/css/vendor/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/vendor/odometer.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <!-- Header Area -->
+<!-- start header Area -->
+<header class="header-area formobile-menu header--transparent default-bg__">
+    <div class="header-wrapper" id="header-wrapper">
+        <div class="header-left">
+            <div class="logo"><a href="index.html"><img src="assets/images/logo/logo.png" alt="Digital Agency"></a>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- End header Arae -->
+<!-- Start Popup Menu Area  -->
+<div class="rn-popup-mobile-menu d-block d-lg-none">
+    <div class="inner">
+        <div class="popup-menu-top">
+            <div class="logo">
+                <a href="index.html"><img src="assets/images/logo/logo-symbol-dark.png" alt="imroz"></a>
+            </div>
+            <div class="close-menu d-block d-lg-none">
+                <span class="closeTrigger">
+                <i data-feather="x"></i>
+            </span>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Popup Menu Area  -->
+    <!-- Start Popup Menu Area  -->
+    <div class="rn-popup-mobile-menu d-block d-lg-none">
+        <div class="inner">
+            <div class="popup-menu-top">
+                <div class="logo">
+                    <a href="index.html"><img src="assets/images/logo/logo-symbol-dark.png" alt="imroz"></a>
+                </div>
+                <div class="close-menu d-block d-lg-none">
+                    <span class="closeTrigger">
+                    <i data-feather="x"></i>
+                </span>
+                </div>
+            </div>
+            <ul class="mainmenu">
+                <li class="has-dropdown">
+                    <a href="#">Home</a>
+                    <ul class="submenu">
+                        <li><a href="index.html">Main Demo</a></li>
+                        <li><a href="dark-main-demo.html">Main Demo Dark</a></li>
+                        <li><a href="personal-portfolio.html">Personal Portfolio</a></li>
+                        <li><a href="interior-landing.html">Interior Landing</a></li>
+                        <li><a href="dark-portfolio-landing.html">Portfolio One Page 02</a></li>
+                        <li><a href="portfolio-home.html">Minimal Portfolio</a></li>
+                        <li><a href="digital-agency.html">Digital Agency</a></li>
+                        <li><a href="creative-agency.html">Creative Agency</a></li>
+                        <li><a href="corporate-business.html">Corporate Business</a></li>
+                        <li><a href="portfolio-landing.html">Portfolio One Page</a></li>
+                        <li><a href="creative-landing.html">Creative Agency Landing</a></li>
+                        <li><a href="business.html">Business</a></li>
+                        <li><a href="designer-portfolio.html">Designer Portfolio</a></li>
+                        <li><a href="home-particles.html">Home Particles</a></li>
+                        <li><a href="studio-agency.html">Studio Agency</a></li>
+                        <li><a href="startup.html">Startup</a></li>
+                        <li><a href="creative-portfolio.html">Creative Portfolio</a></li>
+                    </ul>
+                </li>
+                <li class="has-dropdown">
+                    <a href="#">Service</a>
+                    <ul class="submenu">
+                        <li><a href="service.html">Service</a></li>
+                        <li><a href="service-details.html">Service Details</a></li>
+                    </ul>
+                </li>
+                <li><a href="about.html">About</a></li>
+                <li class="has-dropdown">
+                    <a href="#">Pages</a>
+                    <ul class="submenu">
+                        <li><a href="blog.html">Blog List</a></li>
+                        <li><a href="blog-details.html">Blog Details</a></li>
+                        <li><a href="service.html">Service</a></li>
+                        <li><a href="service-details.html">Service Details</a></li>
+                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li><a href="portfolio-details.html">Portfolio Details</a></li>
+                        <li><a href="404.html">404</a></li>
+                    </ul>
+                </li>
+                <li class="has-dropdown"><a href="#">Blocks</a>
+                    <ul class="submenu">
+                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li><a href="team.html">Team</a></li>
+                        <li><a href="service.html">Service</a></li>
+                        <li><a href="video-popup.html">Video Popup</a></li>
+                        <li><a href="progressbar.html">Progressbar</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="counters.html">Counters</a></li>
+                        <li><a href="blog.html">Blog List</a></li>
+                        <li><a href="clint-logo.html">Clint Logo</a></li>
+                        <li><a href="contact-form.html">Contact Form</a></li>
+                        <li><a href="google-map.html">Google Map</a></li>
+                        <li><a href="columns.html">Columns</a></li>
+                        <li><a href="pricing-table.html">Pricing Table</a></li>
+                        <li><a href="button.html">Button</a></li>
+                    </ul>
+                </li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- End Popup Menu Area  -->
+    <!-- Header Area End -->
+
+    <!-- bread Crumb Area -->
+    <div class="rn-page-title-area pt--120 pb--190 pb_md--100 pb_sm--100  bg_image bg_image--16" data-black-overlay="7">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="rn-page-title text-center pt--100">
+                        <h2 class="title theme-gradient">Playing with Wheeled Archers</h2>
+                        <p>Sometimes you think that speed is enough. No. You need firepower!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- bread Crumb Area ENd -->
+
+    <!-- Portfolio details -->
+    <div class="rn-portfolio-details ptb--120 bg_color--1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details">
+                        <div class="row row--35 mb--50">
+                            <div class="col-lg-6">
+                                <div class="inner">
+                                    <div class="section-title">
+                                        <h2 class="title">Speed and Precision</h2>
+                                        <p class="description mt--30">My experiment with wheeled mechanics in one of the most vivid MMO games. Custom physics, special tuning, high player expectations - you should meet every standard!</p>
+                                        <p class="description">I gave these British vehicles a distinctive British charisma and made them a formidable foe on the battlefield while removing the toxicity of French Wheeled vehicles.</p>
+                                    </div>
+                                    <div class="portfolio-view-list d-flex flex-wrap">
+                                        <div class="port-view"><span>Content Type</span>
+                                            <h4>New Vehicles</h4>
+                                        </div>
+                                        <div class="port-view"><span>Project Type</span>
+                                            <h4>Game Design</h4>
+                                        </div>
+                                        <div class="port-view"><span>Business Type</span>
+                                            <h4>PC Gaming</h4>
+                                        </div>
+                                    </div>
+                                    <div class="portfolio-details-btn mt--30"><a class="btn-default btn-border" href="https://worldoftanks.eu/en/news/general-news/supertest-vehicle-rebalances-august-2023/">Check it now!</a></div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="portfolio-details-accordion mt_md--40 mt_sm--40">
+                                    <div class="inner">
+                                        <div class="section-title">
+                                            <h4 class="title">Key Takeaways</h4>
+                                            <ul class="list-style--1">
+                                                <li><i data-feather="check"></i> Personally made AAA game content</li>
+                                                <li><i data-feather="check"></i> First-hand Game Design experience
+                                                </li>
+                                                <li><i data-feather="check"></i> Full content support</li>
+                                                <li><i data-feather="check"></i> Thorough & detailed clarifications</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio details End -->
+
+    <!-- portfolio area -->
+    <div class="portfolio-related-work pb--120 bg_color--1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title text-center"><span class="subtitle">There's More</span>
+                        <h2 class="title">See Other Works</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt--10">
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="related-work text-center mt--30">
+                        <div class="thumb"><a href="portfolio-details.html"><img src="assets/images/portfolio/related-image-31.jpg" alt="Portfolio-images"></a>
+                        </div>
+                        <div class="inner">
+                            <h4><a href="portfolio-details.html">Getting Famous</a></h4><span
+                                class="category">Guide</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-12">
+                    <div class="related-work text-center mt--30">
+                        <div class="thumb"><a href="portfolio-details.html"><img src="assets/images/portfolio/related-image-32.jpg" alt="Portfolio-images"></a>
+                        </div>
+                        <div class="inner">
+                            <h4><a href="portfolio-details.html">Grind, Die, Repeat</a></h4><span
+                                class="category">Guide</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- portfolio area End -->
+    <!-- start footer area -->
+    <div class="footer-style-2 ptb--30 bg_color--6">
+        <div class="wrapper plr--50 plr_sm--20">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="inner">
+                        <div class="logo text-center text-sm-left mb_sm--20"><a href="index.html"><img src="assets/images/logo/logo-light.png" alt="Logo images"></a></div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="inner text-center">
+                        <ul class="social-share rn-lg-size d-flex justify-content-center liststyle">
+                            <li><a href="https://www.linkedin.com/in/thegoldenchaos/"><i class="fab fa-linkedin-in"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12 col-sm-12 col-12">
+                    <div class="inner text-lg-end text-center mt_md--20 mt_sm--20">
+                        <div class="text">
+                            <p>Copyright © 2023 Rainbow Power. All Rights Reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End footer area -->
+    <!-- Start Top To Bottom Area  -->
+    <div class="rn-progress-parent">
+        <svg class="rn-back-circle svg-inner" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+        </svg>
+    </div>
+    <!-- End Top To Bottom Area  -->
+
+    <!-- js  
+======================================-->
+    <!-- modernizer JS -->
+    <script src="assets/js/vendor/modernizer.min.js"></script>
+    <!-- jquery JS -->
+    <script src="assets/js/vendor/jquery.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="assets/js/vendor/bootstrap.min.js"></script>
+    <script src="assets/js/vendor/avoid-console.js"></script>
+    <script src="assets/js/vendor/feather.js"></script>
+    <script src="assets/js/vendor/slick.min.js"></script>
+    <script src="assets/js/vendor/video.js"></script>
+    <script src="assets/js/vendor/masonry.js"></script>
+    <script src="assets/js/vendor/lightbox.js"></script>
+    <script src="assets/js/vendor/particles.js"></script>
+    <script src="assets/js/vendor/backtotop.js"></script>
+    <script src="assets/js/vendor/odometer.js"></script>
+    <script src="assets/js/vendor/jquery-appear.js"></script>
+    <script src="assets/js/vendor/jquery-one-page-nav.js"></script>
+    <script src="assets/js/vendor/wow.js"></script>
+
+    <!-- main JS -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
